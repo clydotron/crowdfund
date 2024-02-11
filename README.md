@@ -3,18 +3,18 @@
 ## Kickstarter meets blockchain.
 Small application that uses Etherium as currency for crowd funded campaigns. Intended to reduce the fraud/abuse of Kickstarter by requiring that contributors/supporter approve any payment requests by the manager.
 
-###Basic flow:
+### Basic flow:
 * Manger creates the campaign, and specifies a minumum amout of wei that folks must contribute.
 * Individuals can contribute to the campaign.
 * Manager creates 'requests' to spend/transfer the ether
 * Once a majority of the contributors have approved the request, it can be finalized (and payed)
 
-###Technologies invovled:
+### Technologies invovled:
 Solidity: Etherium contract
 React
 NextJS
 
-Services:
+### Services:
 Alchemy - ether faucet
 
 Infura
@@ -22,10 +22,10 @@ Infura
 
 Sepolia newtork
 
-###How to use:
+### How to use:
 
 Metamask
-create account, install chrome extension
+Create account, install chrome extension
 
-How to req
+more on the way!
 
