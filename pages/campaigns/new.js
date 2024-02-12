@@ -49,11 +49,8 @@ function NewCampaign() {
             value={minContribution}
             onChange={onInput}
           />
-    
         </FormField>
         <Message error header="Oops" content={errorMsg} />
-
-     
         <Button primary loading={loading}>Create</Button>
       </Form>
     </Layout>
