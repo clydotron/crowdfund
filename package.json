@@ -22,5 +22,8 @@
     "semantic-ui-react": "^2.1.5",
     "solc": "^0.8.24",
     "web3": "^4.4.0"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
   }
 }
