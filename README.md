@@ -16,7 +16,7 @@ NextJS
 
 ### Services:
 Alchemy - ether faucet
-Infura
+Infura - API key for using eht Sepolia network
 Metamask
 
 Test network:
