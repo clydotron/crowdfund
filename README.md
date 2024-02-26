@@ -9,7 +9,7 @@ Small application that uses Etherium as currency for crowd funded campaigns. Int
 * Manager creates 'requests' to spend/transfer the ether.
 * Once a majority of the contributors have approved the request, it can be finalized (and paid).
 
-### Technologies invovled:
+### Technologies involved:
 Solidity: Etherium contract
 React
 NextJS
